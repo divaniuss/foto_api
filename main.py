@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 from getImg import getimg
 
 root = tk.Tk()
-root.title("Bobik:")
+root.title("Foto:")
 root.geometry("500x600")
 
 entry = tk.Entry(root)
